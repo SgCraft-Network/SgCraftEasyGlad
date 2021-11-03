@@ -1,0 +1,10 @@
+&8&m-----------&f[&3&lEVENTO EASYGLAD&f]&7&m------------
+&r
+  &9>> &fIniciando evento &3EasyGlad&f!
+  &9>> &fItens Setados. &4Limpe seu Inventáro.
+  &9>> &fPara participar use &c/easyglad&f.
+  &9>> &fTempo restante para entrar: &b@tempo &fsegundos.
+  &9>> &fPrêmio: &aR$@dinheiro &f/ 2 Tag's &f[&3EasyGlad&f].
+  &9>> &fJogadores: &e@jogadores&f, &fClans: &e@clans&f.
+&r
+&8&m---------------------------------------------------

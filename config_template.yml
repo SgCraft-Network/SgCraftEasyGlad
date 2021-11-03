@@ -1,0 +1,53 @@
+MySQL:
+  Ativado: false
+  Usuario: user
+  Senha: pass
+  Database: database
+  Host: localhost
+AutoStart:
+  Ativo: false
+  Dias:
+  - Segunda
+  - Terca
+  - Quarta
+  - Quinta
+  - Sexta
+  - Sabado
+  - Domingo
+  Hora: '20:00'
+ClanTag: '[%tag%&r] '
+Format:
+  Ativar: false
+  default: '%clan%'
+  admin: '%clan%&4'
+Premios:
+  Mito:
+    Ativar: false
+    Cmd: setmito @player
+  Tag: '&f[&3EasyGlad&f] '
+PrecoParticipar: 30000.0
+PrecoEntrar: 10000.0
+Aposta:
+  Valor: 5000.0
+Config:
+  Limite: 15
+Timers:
+  Preparar:
+    Avisos: 3
+    TempoEntre: 20
+  Iniciando:
+    Avisos: 2
+    TempoEntre: 10
+  Finalizando: 15
+Arena:
+  Entrada: eventos;-245.7425912697699;35.5;76.43564026212547;153.8985;-0.75017923
+  Saida: spawn;0.5;38.0;0.5;225.14883;-6.299997
+  Camarote: eventos;-245.5;69.0;76.5;285.44894;-0.3001589
+Update: 60
+Bans: {}
+Top_Vencedores: ' &f&lTop Vencedores do &3&lEASYGLAD&f&l:'
+Top_Vencedores_Posicao: ' &c>> &b[&f@posicaoº&b] &f| &r@clan &f- &9[@vitorias] &eWin(s)'
+Top_Kills: ' &f&lTop Kills do &3&lEASYGLAD&f&l:'
+Top_Kills_Posicao: ' &c>> &b[&f@posicaoº&b] &f| &r@player &f- &9[@kills] &eKills(s)'
+Vencedores: {}
+ClanVenceu: {}

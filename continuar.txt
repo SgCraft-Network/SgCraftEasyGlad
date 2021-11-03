@@ -1,0 +1,6 @@
+
+  &b&lO Evento &f[&3EasyGlad&f] &b&lestá Iniciando... 
+  &7Teleporte para o evento Trancado!
+  
+  &a&lOs itens foram ENTREGUES!
+

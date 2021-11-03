@@ -1,0 +1,7 @@
+
+&8&m-----------&f[&3&lEVENTO EASYGLAD&f]&7&m------------
+&r
+   &cIniciando evento, se agrupe com seu clan!
+   &cTempo restante: &e&l@tempo &fsegundos.
+&r
+&8&m-------------------------------------------------

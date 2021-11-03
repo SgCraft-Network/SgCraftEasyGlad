@@ -1,0 +1,10 @@
+
+&8&m-----------&f[&3&lEVENTO EASYGLAD&7]&7&m------------
+
+ &9>> &fEvento &3EasyGlad &ffinalizado!
+ &9>> &fClan Vencedor: &r@clan&f. &ePARABÉNSS&f!
+ &9>> &fTag &f[&3EasyGlad&f]&f: &fEscolha dos Lideres&f.
+ &9>> &fTop Vencedores: &9/easyglad top&f.
+ &9>> &fEsse evento não possui Castelo!
+
+&8&m-------------------------------------------------

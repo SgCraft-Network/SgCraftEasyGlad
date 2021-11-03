@@ -1,0 +1,13 @@
+name: EasyGlad
+main: br.com.sgcraft.easyglad_v2.Main
+version: 2.0
+depends: [Vault]
+softdepend: [Legendchat,HealthBar,SimpleClans]
+commands:
+   easyglad:
+      aliases: [eg]
+      description: Comando do Gladiador.
+      usage: /<command>
+   vencedores:
+      description: Comando do Gladiador.
+      usage: /<command>
